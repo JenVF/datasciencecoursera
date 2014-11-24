@@ -92,9 +92,9 @@ Text file (ex. readme.md), used in reproducible research course
 ### Markdown syntax 
 
 Headings:
-## secondary heading
-### tertiary heading
-* for each item in a dotted list
+## secondary heading: ##
+### tertiary heading: ###
+* for each item in a dotted list: *
 
 MD button in Rstudio has a quick markdown guide on R
 ------
