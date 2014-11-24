@@ -128,7 +128,8 @@ find_rtools() = you should see TRUE printed on screen if it was installed proper
 - github.com (small)
 - figshare.com (larger)
 
-## OTROS
+##OTROS
 
 * Need to be careful with data-dredging when doing data mining (test lots of hypoteses in the same set of data, some will be false-true correlations at the 5% or 1% error margin: http://en.wikipedia.org/wiki/Data_dredging)
 * Data tidying: http://vita.had.co.nz/papers/tidy-data.pdf
+* The unreasonable effectiveness of data https://www.youtube.com/watch?v=yvDCzhbjYWs
