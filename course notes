@@ -127,3 +127,5 @@ find_rtools() = you should see TRUE printed on screen if it was installed proper
 DATA SHARING:
 - github.com (small)
 - figshare.com (larger)
+
+Need to be careful with data-dredging when doing data mining (test lots of hypoteses in the same set of data, some will be false-true correlations at the 5% or 1% error margin: http://en.wikipedia.org/wiki/Data_dredging)
